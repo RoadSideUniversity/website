@@ -12,4 +12,4 @@ git commit -m 'deploy' # if you are deploying to https://<USERNAME>.github.io
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 
-git push -f git@github.com:RoadSideUniversity/roadsideuniversity.github.io.git main
+git push -f git@github.com:RoadSideUniversity/roadsideuniversity.github.io.git main:gh-pages
