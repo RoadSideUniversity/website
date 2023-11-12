@@ -1,0 +1,15 @@
+{
+  "name": "roadsideuniversity.github.io",
+  "version": "1.0.0",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": "git@github.com:RoadSideUniversity/website.git",
+  "author": "Xiaoping Tang <xiaoping.tang@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.25"
+  }
+}
